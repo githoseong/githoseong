@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/hoseong's github-white?style=for-the-badge&logo=Alfred&logoColor=black" style="width:300px; height:200px;"> 
+<img src="https://img.shields.io/badge/hoseong's github-white?style=for-the-badge&logo=Alfred&logoColor=black" style="width:300px; height:100px;"> 
 
 
 
