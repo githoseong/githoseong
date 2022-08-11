@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 
 <h2>안녕하세요</h2>
 <a href="http://www.naver.com">네이버</a>
-<img src="img.simpleicons.org/badge/호성-#5C1F87?style=Alfred&logo=Alfred&logoColor=Alfred">
+<img src="img.simpleicons.org/badge/호성-#5C1F87?style=Alfred&logo=Alfred&logoColor=#5C1F87">
