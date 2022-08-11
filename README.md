@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/badge/hoseong's github-white?style=for-the-badge&logo=Alfred&logoColor=black" style="width:300px; height:100px;"> <hr/>
-<font size="10px;">안녕하세요. 자바 스프링 기반 초보 웹 개발자 이호성입니다.  </font>
+안녕하세요. 자바 스프링 기반 초보 웹 개발자 이호성입니다. 6개월 동안 스프링 웹 개발 과정을 교육 받으면서 연습한 코드와 프로젝트가 들어있습니다.
 
 
 
