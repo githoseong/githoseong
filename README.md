@@ -1,12 +1,12 @@
-<a href="https://www.youtube.com/watch?v=IT3VUx2I3aw">
-<img src="https://img.shields.io/badge/kokiri-white?style=for-the-badge&logo=Evernote&logoColor=black; " style="width:1000px; height:500px;">
-</a>                                                                                                                                            
+<img src="https://img.shields.io/badge/hoseong-white?style=for-the-badge&logo=Alfred&logoColor=black"> hoseong's github
+
+
 
  
 
 
 
-<img src="https://img.shields.io/badge/hoseong-white?style=for-the-badge&logo=Alfred&logoColor=black">
+
 
                                                                                                                                             
 
