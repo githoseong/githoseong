@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <h2>안녕하세요</h2>
 <a href="http://www.naver.com">네이버</a>
 <img src="https://img.shields.io/badge/hoseong-white?style=for-the-badge&logo=Alfred&logoColor=black">
-<img src="https://img.shields.io/badge/kokiri-white?style=for-the-badge&logo=Evernote&logoColor=black; font-size:30px;" >
+<img src="https://img.shields.io/badge/kokiri-white?style=for-the-badge&logo=Evernote&logoColor=black; width:100px; height:100px;" >
 
 
 
